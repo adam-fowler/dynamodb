@@ -3,11 +3,11 @@
     "pins": [
       {
         "package": "AWSSDKSwiftCore",
-        "repositoryURL": "https://github.com/swift-aws/aws-sdk-swift-core.git",
+        "repositoryURL": "https://github.com/adam-fowler/aws-sdk-swift-core.git",
         "state": {
-          "branch": null,
-          "revision": "29d059a323c079c731bca969909321142034a036",
-          "version": "4.0.0"
+          "branch": "profile",
+          "revision": "e2128b48bff70a6cb58b4741c4b9de529007f93b",
+          "version": null
         }
       },
       {
